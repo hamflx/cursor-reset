@@ -4,7 +4,9 @@
 
 ## Mentium
 
-一个支持微信操作电脑、连接数据库、安装软件、工作调研等工作/生活全能小助手(MentiumClaw 😂)。前往下载：https://mentium.app
+一个支持微信操作电脑、连接数据库、安装软件、工作调研等工作/生活全能小助手(MentiumClaw 😂)。
+
+前往下载：https://mentium.app
 
 典型使用案例：
 
