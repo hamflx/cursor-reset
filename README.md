@@ -1,5 +1,19 @@
 # Cursor Machine ID Reset (≥ 0.45.0)
 
+---
+
+## Mentium
+
+一个支持微信操作电脑、连接数据库、安装软件、工作调研等。前往下载：https://mentium.app
+
+典型使用案例：
+
+1. 帮我分析一下生产数据库 token 使用量。
+2. 帮我调研“AGI 还有多久能够到来”。
+3. 微信【关注公众号在公众号发送消息】：把桌面上的截图发给我。
+
+---
+
 [English Version](#usage)
 
 支持 Windows / macOS / Linux。已在 0.45.8、0.46.1（示例）验证。
