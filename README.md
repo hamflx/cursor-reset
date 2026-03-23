@@ -4,7 +4,7 @@
 
 ## Mentium
 
-一个支持微信操作电脑（多设备操作，支持 Weixin ClawBot）、连接数据库、安装软件、工作调研等工作/生活全能小助手(MentiumClaw 😂)。
+一个支持**微信操作电脑**（**多设备操作**，支持 **Weixin ClawBot**）、连接数据库、安装软件、工作调研等工作/生活全能小助手(MentiumClaw 😂)。
 
 前往下载：https://mentium.app
 
